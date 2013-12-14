@@ -1,0 +1,416 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: hudsonbuild
+Bundle-SymbolicName: org.eclipse.rap.demo;singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/rap/or
+ g.eclipse.rap.git;path="examples/org.eclipse.rap.demo";commitId=af914
+ 8edeefcbb7f4ca37354453647abee20c019
+Require-Bundle: org.eclipse.rap.ui;bundle-version="[2.1.0,3.0.0)",org.
+ eclipse.rap.ui.views;bundle-version="[2.1.0,3.0.0)",org.eclipse.rap.u
+ i.forms;bundle-version="[2.1.0,3.0.0)"
+Export-Package: org.eclipse.rap.demo;version="2.1.1";x-internal:=true,
+ org.eclipse.rap.demo.actions;version="2.1.1";x-internal:=true,org.ecl
+ ipse.rap.demo.editor;version="2.1.1";x-internal:=true,org.eclipse.rap
+ .demo.presentation;version="2.1.1";x-internal:=true,org.eclipse.rap.d
+ emo.wizard;version="2.1.1";x-internal:=true
+Bundle-Version: 2.1.1.20130902-1345
+Build-Jdk: 1.5.0_22
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Name: %Bundle-Name
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Import-Package: javax.servlet.http;version="[2.3.0,4.0.0)"
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/rap/demo/editor/BarEditor$1.class
+SHA1-Digest: IkRWCji5QeHUSO5v6COisWQBgls=
+
+Name: org/eclipse/rap/demo/presentation/StackPresentationImpl.class
+SHA1-Digest: CUqO2TPjk3gFPn4F1bNQlkFt3CM=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor.class
+SHA1-Digest: bjmvacre88YkC12Qe432/X4A0TU=
+
+Name: org/eclipse/rap/demo/editor/BazEditor$1.class
+SHA1-Digest: QwNq3sZPQ1O9yvU61Ir8DUhmBxQ=
+
+Name: org/eclipse/rap/demo/wizard/ComplaintsPage$2.class
+SHA1-Digest: tZaOysEP7Ka8ZDyE8bAMNO0UMJc=
+
+Name: icons/login.gif
+SHA1-Digest: QBjELuV/+2+fQuiDkpMwGNuau+M=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor$3.class
+SHA1-Digest: jRaQmUYTXKZg/MD3DuBUr2DvWTM=
+
+Name: icons/progress_ok.gif
+SHA1-Digest: hUhzWoH41s7EegLkCvoRMyqvljA=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$2.class
+SHA1-Digest: 7J+/0YMP8AqPpyWC7f+Mheatl+g=
+
+Name: org/eclipse/rap/demo/presentation/StackPresentationImpl$2.class
+SHA1-Digest: Y1KObMvaK30Uul9fg9mZHFoorMc=
+
+Name: icons/presentation/banner_rounded_right.png
+SHA1-Digest: wc819u7Uoi371izO9geWE1Tq69Q=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart$TreeParent.class
+SHA1-Digest: R50z2EKc710hC/EgRJLHUs3yof4=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchAdvis
+ or.class
+SHA1-Digest: dOjS++0E+wzMgowwNtR+RtvSofQ=
+
+Name: org/eclipse/rap/demo/editor/FooEditorInput.class
+SHA1-Digest: jYRzc7A6A8T+aCkWbCnKgA/ZFCA=
+
+Name: launch/RAP Workbench Demo (Fancy).launch
+SHA1-Digest: y8qsq0n11QKZO7uUyHH47k5cjk8=
+
+Name: icons/favicon2.ico
+SHA1-Digest: Bfmp+hftw6EiICSz0XcbClFwyJI=
+
+Name: org/eclipse/rap/demo/wizard/DemoExport.class
+SHA1-Digest: eUSUROHvljmMM2FBBNbF73rkoJc=
+
+Name: org/eclipse/rap/demo/presentation/DemoToolBarContributionItem.cl
+ ass
+SHA1-Digest: lUwMW+H0ena+pslzqRjtj9Sn1vc=
+
+Name: org/eclipse/rap/demo/DemoWorkbench.class
+SHA1-Digest: nPJaEbl9lf82RyIJcwnsTpbRAmc=
+
+Name: org/eclipse/rap/demo/actions/JobActionWithDialog$1.class
+SHA1-Digest: 17EuHcn0B00PJYX9f6HzFs9M5fw=
+
+Name: org/eclipse/rap/demo/DemoChartViewPart$1.class
+SHA1-Digest: wpW69xmN6CdjjF7d3SXASlRod68=
+
+Name: icons/presentation/bottom_center.gif
+SHA1-Digest: 7YLvzShkW6RZ7S8o3CU9E+fNEuE=
+
+Name: META-INF/maven/org.eclipse.rap/org.eclipse.rap.demo/pom.xml
+SHA1-Digest: OAcHVhhidWNiHWQgtCIU0ny9Tpg=
+
+Name: org/eclipse/rap/demo/presentation/NavigationPaneViewer.class
+SHA1-Digest: yCUMd8ou6YTgOWoxULbn1pzQicg=
+
+Name: org/eclipse/rap/demo/DemoTreeViewActionDelegate$1.class
+SHA1-Digest: 5Fv+yG+JGRDH3RhPvIJ5oWVug2Y=
+
+Name: org/eclipse/rap/demo/wizard/MoreInformationPage$1.class
+SHA1-Digest: z11XfO1Ryxd+jayvyti1s8fkW7c=
+
+Name: icons/presentation/top_left.gif
+SHA1-Digest: 93XmWSiD0P1gF/mM5Gon5VyeKL0=
+
+Name: org/eclipse/rap/demo/resources/eclipse.svg
+SHA1-Digest: b67nMgmIss1A1Dl1arI3HuQ6XXs=
+
+Name: org/eclipse/rap/demo/presentation/DemoToolBarManager.class
+SHA1-Digest: SJCUdTW/WHEqa0tA6C/m6hdFiVA=
+
+Name: org/eclipse/rap/demo/DemoWorkbenchWindowAdvisor.class
+SHA1-Digest: Hr/ZRZAfjMSFsje/Yugvg9VQt/Q=
+
+Name: org/eclipse/rap/demo/resources/ExternalJsResource.class
+SHA1-Digest: 8JSqDFgqWjiguWBBEQtRCo4kcjk=
+
+Name: org/eclipse/rap/demo/DemoTableViewPart.class
+SHA1-Digest: imSZQ4Ck278IdBb6xoSrmtRsQX0=
+
+Name: org/eclipse/rap/demo/actions/SampleAction.class
+SHA1-Digest: mQNma5iCXYGJgADORIhV8z/IBUA=
+
+Name: org/eclipse/rap/demo/wizard/SurveyWizard.class
+SHA1-Digest: yfwW/F0x0pC/nFbF2PgLPDMubNI=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart$ViewLabelProvider.class
+SHA1-Digest: nnbIHEDjs7w/Qy3FiYnsgfs+q/k=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor$4.class
+SHA1-Digest: nz5mCpmTyzbFGdYXE2/IhRdQ5ps=
+
+Name: org/eclipse/rap/demo/wizard/DemoImport.class
+SHA1-Digest: Rq6VmuClr7bYvsX+X6nabZsqc+E=
+
+Name: org/eclipse/rap/demo/actions/JobActionWithDialog.class
+SHA1-Digest: zHAHcTxd2xWOYbIVnxftSxy1duE=
+
+Name: org/eclipse/rap/demo/presentation/ActionBarButton.class
+SHA1-Digest: lPvdkxPZAbSxEvYZkozayMUWFLA=
+
+Name: org/eclipse/rap/demo/wizard/DemoImport$DemoImportWizardPage.clas
+ s
+SHA1-Digest: 5sT48oFZ/7qLohe5FpyBk2M0yEU=
+
+Name: icons/internal_browser.gif
+SHA1-Digest: T9nn+eQcxzjSbyQkRq79KR4Z5gg=
+
+Name: org/eclipse/rap/demo/DemoChartViewPart.class
+SHA1-Digest: 2+btlGS1T/vlPRLATTMwK/0oomM=
+
+Name: icons/presentation/banner_bg.png
+SHA1-Digest: QsgT3Fl0L+P98DkwpXoRuzFlt30=
+
+Name: org/eclipse/rap/demo/DemoFormViewPart.class
+SHA1-Digest: iJH5n86hBsp1hvvefjflZgNjYms=
+
+Name: org/eclipse/rap/demo/DemoTreeViewActionDelegate.class
+SHA1-Digest: TrK4KIZLdAqYu9eAlnuSGUpvOKQ=
+
+Name: org/eclipse/rap/demo/presentation/StackPopup.class
+SHA1-Digest: enqv8sin7Krn7QRQIbWCsyfPu18=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$1$1.class
+SHA1-Digest: aHPuKEmPQVoxgR2QjNmMD01N2sY=
+
+Name: org/eclipse/rap/demo/presentation/StackPresentationImpl$2$1.clas
+ s
+SHA1-Digest: hnx7dsrRICKoNKYEMuNoxQKxzLg=
+
+Name: org/eclipse/rap/demo/presentation/DemoPreferencePage.class
+SHA1-Digest: /26fK3B/v63ExdTWMZkqptCuxP4=
+
+Name: org/eclipse/rap/demo/DemoChartViewPart$Bar.class
+SHA1-Digest: NCbfnA5KqHhGv2MY7esEWBoyyds=
+
+Name: icons/presentation/top_right.gif
+SHA1-Digest: oFKnM7TENhkR6yv3lvjbu9Cvc/4=
+
+Name: org/eclipse/rap/demo/editor/FooEditorContributor.class
+SHA1-Digest: 9e7ISb5ip+a+Aj9hLKJ6+ErNjd0=
+
+Name: about.html
+SHA1-Digest: sAXgWZYB7tT9O9w6pl6VraWFVhk=
+
+Name: org/eclipse/rap/demo/DemoApplication.class
+SHA1-Digest: 0SYqXNO8suxbgLSqg+3rf/N99ZE=
+
+Name: org/eclipse/rap/demo/presentation/DemoToolBarContributionItem$To
+ olBarManager.class
+SHA1-Digest: FEGXIDOs76NfW7tkfi6abZpc/G0=
+
+Name: org/eclipse/rap/demo/editor/FooEditor$1.class
+SHA1-Digest: PzT8TU/EoZIxOdsYPB+OFlvnhcU=
+
+Name: org/eclipse/rap/demo/editor/BarEditor.class
+SHA1-Digest: 5yfJd5BnGh5QR37EktKv/fjlKVk=
+
+Name: icons/presentation/middle_center.gif
+SHA1-Digest: +8b9ex4FYuNuP3IT8RhFeD2Qyq8=
+
+Name: body.html
+SHA1-Digest: vAqywFqIwMdpxWvQbT6yD9/WrII=
+
+Name: org/eclipse/rap/demo/DemoWorkbenchAdvisor.class
+SHA1-Digest: 1XA8F1XCh918xz4ReKFS+BihlzE=
+
+Name: org/eclipse/rap/demo/Perspective.class
+SHA1-Digest: w8KxhMvujrMBqcftcTrN5VrbmlY=
+
+Name: org/eclipse/rap/demo/editor/BazEditor.class
+SHA1-Digest: WeHf/MtHoWKqya/629ZJYAfSN60=
+
+Name: icons/error-decorator.png
+SHA1-Digest: hKV7DCfq4JM6SNEWYY0bY8cMPjw=
+
+Name: org/eclipse/rap/demo/DemoSelectionViewPart.class
+SHA1-Digest: XNYFJuc/BRacQHOI6H29l2j9hJo=
+
+Name: org/eclipse/rap/demo/actions/JobAction.class
+SHA1-Digest: nUOXSjbJ+PacGhzH1T4yRGnTpZ8=
+
+Name: icons/contact.gif
+SHA1-Digest: d4/caCyTtzpGuEeSr8UTWk3IzHo=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart$TreeViewerContentProvider.
+ class
+SHA1-Digest: cMhJVgo20qHMtuoZzauRIWz2aP8=
+
+Name: launch/RAP Workbench Demo (OSGi).launch
+SHA1-Digest: bLHM1dUmmlGVGo4rRqCDWxX7vDg=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor$1.class
+SHA1-Digest: M+MYC06OaYqA5bjkv9KerwjqfhY=
+
+Name: icons/browser.gif
+SHA1-Digest: rr7lvuJJ6GnNMwtAQaYJJoRVCfs=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor$5.class
+SHA1-Digest: 19Cvl0fnr1i275UVw+dx8CviCcI=
+
+Name: org/eclipse/rap/demo/presentation/PresentationFactory.class
+SHA1-Digest: 57es+RZzXcf2dVHoHL5curqDu/4=
+
+Name: icons/search.gif
+SHA1-Digest: KAeudWAcz8OwfYCiUsRwtKa5t+Q=
+
+Name: icons/sample.gif
+SHA1-Digest: AFju2Q2+1Vh+Fu1wE08m60Jwc0g=
+
+Name: org/eclipse/rap/demo/wizard/MoreInformationPage.class
+SHA1-Digest: dnYunF874xZdru2GLeGQwNbQnBI=
+
+Name: org/eclipse/rap/demo/DemoBrowserViewPart.class
+SHA1-Digest: O6ahGLIWXi9LLombuifp+X8mCfg=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$1$2.class
+SHA1-Digest: Ddt7sOn07nZC0UTraKX5vFO2G0w=
+
+Name: org/eclipse/rap/demo/resources/ImageResource.class
+SHA1-Digest: zfRFok0d0E4feE1B5VoGoFVvKwk=
+
+Name: org/eclipse/rap/demo/PlanningPerspective.class
+SHA1-Digest: yfviigm+0v1V9rmWCDaZ1EMaZ6s=
+
+Name: org/eclipse/rap/demo/presentation/StackPopup$1.class
+SHA1-Digest: jXj7AkVCB0FbP6bCV2gGYoaS15M=
+
+Name: org/eclipse/rap/demo/editor/FooEditor.class
+SHA1-Digest: 7isBDBM5GbrIf14w83zlOe0os4M=
+
+Name: icons/presentation/middle_left.gif
+SHA1-Digest: ACC0zbLkiu+EkAiAp8BnPo9ICDE=
+
+Name: icons/presentation/banner_rounded_left.png
+SHA1-Digest: JS3mZZPbqDdtKphZ4mx9e3IPUbE=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$1$1$1.class
+SHA1-Digest: EgkpLXylakPiuOvwsPeI7N7unBw=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart.class
+SHA1-Digest: 5rdUd55b0UDJAmgRWFgdkDnvvss=
+
+Name: icons/lockkey.gif
+SHA1-Digest: t7FPQaARjEfWPcEst1lucA3xRcY=
+
+Name: icons/pview.gif
+SHA1-Digest: g47aB5Hfms35X0ki00vwZJlUR7w=
+
+Name: org/eclipse/rap/demo/presentation/ActionBar.class
+SHA1-Digest: jE1lBxrmLZgujW40L+KhzxrVIr8=
+
+Name: launch/RAP Workbench Demo.launch
+SHA1-Digest: hvTOaxadNSWtqCyWrYzfSFDot0M=
+
+Name: org/eclipse/rap/demo/wizard/ComplaintsPage$1.class
+SHA1-Digest: xEwyItVkAs0mziNywzVU/Jd6uNc=
+
+Name: META-INF/maven/org.eclipse.rap/org.eclipse.rap.demo/pom.properti
+ es
+SHA1-Digest: vanR7g1rC4HwMl4ipW0FDphL9ek=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor$2.class
+SHA1-Digest: 3cX7hb4uyjdoVZrAMSKoLcz1KII=
+
+Name: org/eclipse/rap/demo/presentation/Images.class
+SHA1-Digest: ISHxEZPrEm8eYsAdNHoK4W9iyH4=
+
+Name: org/eclipse/rap/demo/actions/JobAction$1.class
+SHA1-Digest: 8xWfVdggrghXdTsyDJdbiDSOoIc=
+
+Name: org/eclipse/rap/demo/DemoSelectionViewPart$1.class
+SHA1-Digest: rHHUehLmpdtPYQgdQlt3J2Pr2ME=
+
+Name: plugin.properties
+SHA1-Digest: AuC3H+3eH7O88Ciyyg58h5eDQv4=
+
+Name: icons/register.gif
+SHA1-Digest: KBgRjdXon6FcAufJ9wYEAVQ3SNw=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$1.class
+SHA1-Digest: zvccyd4VgoAtNN0+ZVhba2Cw3W4=
+
+Name: org/eclipse/rap/demo/presentation/StackPresentationImpl$1.class
+SHA1-Digest: HeWuZrYfQw9HYjMkqvk4NPhg1WI=
+
+Name: icons/presentation/bottom_left.gif
+SHA1-Digest: tRBGg+o9G5VuTGB/6dcXW2FF3ug=
+
+Name: icons/ttt.gif
+SHA1-Digest: /790x6rOv/IZAu0M9OinkHDgGZE=
+
+Name: org/eclipse/rap/demo/presentation/NavigationPaneViewer$Selector.
+ class
+SHA1-Digest: g9DXFJgXUUrjrlJP5ILvvYRf2LY=
+
+Name: icons/info.gif
+SHA1-Digest: mUtH6JOLdcPH0zYHzxxaDo/tNgE=
+
+Name: org/eclipse/rap/demo/presentation/DemoCoolBarManager.class
+SHA1-Digest: CgS+JTE7nHOiWXl5SNNQLwVpMPA=
+
+Name: org/eclipse/rap/demo/wizard/ThanksPage.class
+SHA1-Digest: Tjr6pkGvybqEzyPhu43m6nOz4cQ=
+
+Name: plugin.xml
+SHA1-Digest: 0pn3HpJYoPEGS3yB89Ken8WL2a8=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart$BrokenTreeObject.class
+SHA1-Digest: LsXP83X0DYrQaibD9vEgqEHJsqo=
+
+Name: icons/status.gif
+SHA1-Digest: steTY7ifVuR6yBGgOI08jyey3EQ=
+
+Name: org/eclipse/rap/demo/presentation/DemoPresentationWorkbenchWindo
+ wAdvisor$1$3.class
+SHA1-Digest: 3CaEYBgjAj0GfJuzlULHXiJ+E/s=
+
+Name: org/eclipse/rap/demo/DemoTableViewPart$ViewLabelProvider.class
+SHA1-Digest: TDPhOuwN2WEiLmJuUh1Kz4yBCgs=
+
+Name: icons/test-100x50.png
+SHA1-Digest: qnBoZbS9J+UkULxE1tyMv7cpapo=
+
+Name: org/eclipse/rap/demo/DemoTableViewPart$ViewContentProvider.class
+SHA1-Digest: eZ879aPJhgbpC4v1xj92WIpLt4g=
+
+Name: org/eclipse/rap/demo/presentation/StackPopup$2.class
+SHA1-Digest: +07yG9eDnHGP9REfu25ob6+HelM=
+
+Name: org/eclipse/rap/demo/DemoTreeViewPart$TreeObject.class
+SHA1-Digest: vYUJyvJMqTwUzocRd4GzOl6ip1Q=
+
+Name: icons/presentation/middle_right.gif
+SHA1-Digest: ciDoDvFdhmR1YRv6QB5GEoTUUGU=
+
+Name: org/eclipse/rap/demo/DemoBrowserViewPart$1.class
+SHA1-Digest: SCtCV8SsNFY4IkPCZPsGVhy12bQ=
+
+Name: icons/help.gif
+SHA1-Digest: rPmovBGARoDY4DIO6eJwtboVz8Y=
+
+Name: org/eclipse/rap/demo/wizard/DemoExport$DemoExportWizardPage.clas
+ s
+SHA1-Digest: DRiBSbxrg19q+tUeWCwl9+b8nIk=
+
+Name: icons/test-50x100.png
+SHA1-Digest: FbxWDl3LLdSyBFq+z+uhodna1VU=
+
+Name: icons/presentation/top_center.gif
+SHA1-Digest: j4/gVb+4JR7AIoWXRkVmSRW2xzU=
+
+Name: org/eclipse/rap/demo/wizard/ComplaintsPage.class
+SHA1-Digest: LU413dORPQbHuD+9Qeklro5ylzU=
+
+Name: org/eclipse/rap/demo/DemoActionBarAdvisor.class
+SHA1-Digest: buzmmIODSrDo7oAKKsVZAtV/i/g=
+
+Name: org/eclipse/rap/demo/presentation/NavigationPaneContent.class
+SHA1-Digest: 6fUHxeHptg85tDdgDkt9qr/JaL0=
+
+Name: icons/presentation/bottom_right.gif
+SHA1-Digest: uHYikskIFkC16M/yfTTXl/1+hCw=
+
+Name: launch/RAP Workbench Demo (Business).launch
+SHA1-Digest: ZgxxXS8EXavAYGjNf/wphdQy9Tk=
+
